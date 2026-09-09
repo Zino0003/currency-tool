@@ -3,7 +3,7 @@ A system that asks the user to enter the currency whose exchange rate he wants t
 ![Python](https://img.shields.io/badge/python-v3.8+-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
-![Demo](assets/demo.png)
+![Demo](assets/demo.PNG)
 ___
 ## ✨ Features :
 - It supports more than 160 currencies worldwide
